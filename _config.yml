@@ -1,0 +1,20 @@
+# Usign the Clean Blog theme
+
+title: Structured Regularization for High-Dimensional Data Analysis
+author: curves-and-surfaces
+email: gabriel.peyre@ens.fr
+description: Web site of the graduate school "Structured Regularization for High-Dimensional Data Analysis"
+baseurl: ""
+url: "http://regularize-in-paris.github.io/"
+github_username:  regularize-in-paris
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+name: Structured Regularization for High-Dimensional Data Analysis
+gems:
+  - jekyll-feed
+  - jekyll-paginate
