@@ -21,28 +21,28 @@ TBA.
 Topics
 ===========================
 
-TBA.
+This mathematical workshop and graduate school will be the opportunity to bring together students, researchers and people working on High-Dimensional Data Analysis around three courses and four talks on new methods in structured regularization. The mathematical foundations of this event will lie between probability, statistics, optimization, image and signal processing.
 
 Speakers
 ===========================
 
 Graduate courses:
+- [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/) (Cambridge)
 - [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)
 - [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (Genova and MIT)
-- [Martin Wainwright](https://people.eecs.berkeley.edu/~wainwrig/) (Berkley).
 
 Workshop talks:
 - [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA and ENS)
 - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est)
+- [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/) (NYU)
 - [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)
-- [Tong Zhang](http://www.stat.rutgers.edu/home/tzhang/) (Rutgers)
 
 Organizers
 ===========================
 
 - [Gabriel Peyré](http://www.gpeyre.com/)  (CNRS and ENS)
 - [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE)
-- [Yohann De Castro](https://www.normalesup.org/~decastro/) (Paris Sud)
+- [Yohann De Castro](https://www.normalesup.org/~decastro/) (Paris-Sud)
 
 Supported by
 ===========================
