@@ -16,7 +16,7 @@ The conference will take place from June 19th to 23rd in [Institut Henri Poincar
 Registration
 ===========================
 
-TBA.
+[Registration is free but mandatory](https://docs.google.com/forms/d/e/1FAIpQLSfMXGWpODj9OdE8iT-PPlPkOaI3-v6SSYyKdrXTZ33m_oJZwA/viewform).
 
 Topics
 ===========================
@@ -43,6 +43,7 @@ Organizers
 - [Gabriel Peyré](http://www.gpeyre.com/)  (CNRS and ENS)
 - [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE)
 - [Yohann De Castro](https://www.normalesup.org/~decastro/) (Paris-Sud)
+
 
 Supported by
 ===========================
