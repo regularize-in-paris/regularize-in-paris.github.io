@@ -27,11 +27,13 @@ Speakers
 ===========================
 
 Graduate courses:
+
 - [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/) (Cambridge)
 - [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)
 - [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (Genova and MIT)
 
 Workshop talks:
+
 - [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA and ENS)
 - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est)
 - [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/) (NYU)
