@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "Workshop and School"
+title: "Summer School"
 description: "Structured Regularization for High-Dimensional Data Analysis"
 header-img: "img/ihp1.jpg"
 ---
 
-Welcome to the mathematical workshop and graduate school "Structured Regularization for High-Dimensional Data Analysis".
+Welcome to the mathematical summer school "Structured Regularization for High-Dimensional Data Analysis".
 
 Where and when
 ===========================
 
-The conference will take place from June 19th to 23rd in [Institut Henri Poincaré](http://www.ihp.fr/), in Paris, France.
+The summer school will take place from June 19th to 23rd in [Institut Henri Poincaré](http://www.ihp.fr/), in Paris, France.
 
 
 Registration
@@ -21,18 +21,18 @@ Registration
 Topics
 ===========================
 
-This mathematical workshop and graduate school will be the opportunity to bring together students, researchers and people working on High-Dimensional Data Analysis around three courses and four talks on new methods in structured regularization. The mathematical foundations of this event will lie between probability, statistics, optimization, image and signal processing.
+This mathematical summer school will be the opportunity to bring together students, researchers and people working on High-Dimensional Data Analysis around three courses and four talks on new methods in structured regularization. The mathematical foundations of this event will lie between probability, statistics, optimization, image and signal processing.
 
 Speakers
 ===========================
 
-Graduate courses:
+Courses:
 
 - [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/) (Cambridge)
 - [Andrea Montanari](http://web.stanford.edu/~montanar/) (Stanford)
 - [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (Genova and MIT)
 
-Workshop talks:
+Additional talks:
 
 - [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA and ENS)
 - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est)

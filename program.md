@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Structured Regularization Workshop"
+title: "Structured Regularization Summer School"
 description: "Program"
 header-img: "img/ihp2.jpg"
 ---
