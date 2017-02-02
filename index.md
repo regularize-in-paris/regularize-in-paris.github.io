@@ -69,7 +69,7 @@ Supported by
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="http://www.ensae.fr">
-<img width="200" src="img/logo-ensae.jpeg"/>
+<img width="200" src="img/logo-ensae.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.fondation-hadamard.fr/LMH">
