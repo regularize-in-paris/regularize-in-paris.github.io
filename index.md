@@ -12,7 +12,6 @@ Where and when
 
 The summer school will take place from June 19th to 23rd in [Institut Henri Poincaré](http://www.ihp.fr/), in Paris, France.
 
-
 Registration
 ===========================
 
@@ -69,8 +68,8 @@ Supported by
 <img width="150" src="img/logo-ecodec.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="hhttp://nouvellesdonnees.com/">
-<img width="200" src="img/logo-end.jpeg"/>
+<a href="http://www.ensae.fr">
+<img width="200" src="img/logo-ensae.jpeg"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.fondation-hadamard.fr/LMH">
