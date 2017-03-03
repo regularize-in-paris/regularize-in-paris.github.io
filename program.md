@@ -5,7 +5,7 @@ description: "Program"
 header-img: "img/ihp2.jpg"
 ---
 
-   | Monday 19th 				| Tuesday 20th 	| Wednesday 21st |  Friday 22nd |
+ Date  | Monday 19th 				| Tuesday 20th 	| Wednesday 21st |  Friday 22nd |
 :-------------|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 9h30 - 11h 	|Anders Hansen (1/4) 		| Anders Hansen (3/4) 	| Andrea Montanari (3/4) | Lorenzo Rosasco (2/4) |
 11h - 11h30 	| Coffee break 				| Coffee break 	| Coffee break | Coffee break |
@@ -15,6 +15,6 @@ header-img: "img/ihp2.jpg"
 15h30 - 16h00 | Coffee break 				| Coffee break 	| Coffee break | Coffee break |
 16h00 - 17h30 |Andrea Montanari (1/4) 	| Andrea Montanari (2/4) 	| Lorenzo Rosasco (1/4) | Lorenzo Rosasco (4/4) |
 
-
+___
 <mark>Start:</mark> We welcome the participants on Monday 19th from 9h to 9h30 at IHP. 
 
