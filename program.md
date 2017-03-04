@@ -6,7 +6,7 @@ header-img: "img/ihp2.jpg"
 ---
 
  Date  | Monday 19th 				| Tuesday 20th 	| Wednesday 21st |  Friday 22nd |
-:-----------------------|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+:-------------------------|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 9h30 - 11h 	|Anders Hansen (1/4) 		| Anders Hansen (3/4) 	| Andrea Montanari (3/4) | Lorenzo Rosasco (2/4) |
 11h - 11h30 	| Coffee break 				| Coffee break 	| Coffee break | Coffee break |
 11h30 - 12h30 | Francis Bach 				| Émilie Chouzenoux 	| Carlos Fernandez-Granda | Rachel Ward |
