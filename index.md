@@ -10,7 +10,7 @@ Welcome to the mathematical summer school "Structured Regularization for High-Di
 Where and when
 ===========================
 
-The summer school will take place from June 19th to 23rd in [Institut Henri Poincaré](http://www.ihp.fr/), in Paris, France.
+The summer school will take place from June 19th to 22nd in [Institut Henri Poincaré](http://www.ihp.fr/), in Paris, France.
 
 Registration
 ===========================
