@@ -5,7 +5,7 @@ description: "Program"
 header-img: "img/ihp2.jpg"
 ---
 
-<table style="width:100%", style="align:center">
+<table style="width:100%,align:center">
   <tr style="color:red">
     <th style="width:12%"></th>
     <th style="width:22%">Mon 19</th> 
