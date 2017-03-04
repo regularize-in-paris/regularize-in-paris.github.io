@@ -5,7 +5,7 @@ description: "Program"
 header-img: "img/ihp2.jpg"
 ---
 
-<table style="width:100%,align:center">
+<table style="align:center">
   <tr style="color:red">
     <th style="width:12%"></th>
     <th style="width:22%">Mon 19</th> 
@@ -13,7 +13,7 @@ header-img: "img/ihp2.jpg"
     <th style="width:22%">Wed 21</th>
     <th style="width:22%">Fri 22</th>
   </tr>
-  <tr color="black">
+  <tr style="color:black">
     <td>9h30 - 11h</td>
     <td>A. Hansen (1/4)</td>
     <td>A. Hansen (3/4)</td>
