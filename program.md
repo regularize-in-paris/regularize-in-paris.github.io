@@ -11,7 +11,7 @@ header-img: "img/ihp2.jpg"
     <th style="width:22%">Mon 19</th> 
     <th style="width:22%">Tue 20</th>
     <th style="width:22%">Wed 21</th>
-    <th style="width:22%">Fri 22</th>
+    <th style="width:22%">Thu 22</th>
   </tr>
   <tr style="color:black">
     <td>9h30 - 11h</td>
