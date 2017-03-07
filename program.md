@@ -68,8 +68,8 @@ header-img: "img/ihp2.jpg"
 ___
 <mark>Start:</mark> We welcome the participants on Monday June 19th from 9h to 9h30 at IHP.
 
----
 Abstracts
+-------
 
 
 **Francis Bach (INRIA)**: Submodular Functions: from Discrete to Continuous Domains <br/>
