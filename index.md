@@ -36,7 +36,6 @@ Additional talks:
 - [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA and ENS)
 - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est)
 - [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/) (NYU)
-- [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)
 
 Organizers
 ===========================
