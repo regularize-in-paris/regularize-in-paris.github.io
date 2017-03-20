@@ -32,7 +32,7 @@ header-img: "img/ihp2.jpg"
     <td>F. Bach</td>
     <td>É. Chouzenoux</td>
     <td>C. Fernandez-Granda</td>
-    <td>TBA</td>
+    <td>C. Boyer</td>
   </tr>
     <tr color="black">
     <td>12h30-14h</td>

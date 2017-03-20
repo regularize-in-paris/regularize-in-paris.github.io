@@ -34,6 +34,7 @@ Courses:
 Additional talks:
 
 - [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA and ENS)
+- [Claire Boyer](http://www.lsta.upmc.fr/boyer/) (UPMC)
 - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est)
 - [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/) (NYU)
 
