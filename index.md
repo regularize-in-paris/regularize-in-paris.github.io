@@ -41,9 +41,9 @@ Additional talks:
 Organizers
 ===========================
 
-- [Gabriel Peyré](http://www.gpeyre.com/)  (CNRS and ENS)
-- [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE)
 - [Yohann De Castro](https://www.normalesup.org/~decastro/) (Paris-Sud)
+- [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE)
+- [Gabriel Peyré](http://www.gpeyre.com/)  (CNRS and ENS)
 
 
 Supported by
