@@ -75,5 +75,11 @@ Supported by
 <a href="https://www.fondation-hadamard.fr/LMH">
 <img width="150" src="img/logo-lmh.png"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="http://gdr-mia.math.cnrs.fr/">
+<img width="120" src="img/logo-mia.jpg"/>
+</a>
+
+
 
 </p>
