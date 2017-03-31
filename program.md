@@ -18,7 +18,7 @@ header-img: "img/ihp2.jpg"
     <td>A. Hansen (1/4)</td>
     <td>A. Hansen (3/4)</td>
     <td>A. Montanari (3/4)</td>
-    <td>L. Rosasco (3/4)</td>
+    <td>A. Montanari (4/4)</td>
   </tr>
   <tr color="black">
     <td>11h-11h30 </td>
@@ -46,7 +46,7 @@ header-img: "img/ihp2.jpg"
     <td>A. Hansen (2/4)</td>
     <td>A. Hansen (4/4)</td>
     <td>L. Rosasco (1/4)</td>
-    <td>A. Montanari (4/4)</td>
+    <td>L. Rosasco (3/4)</td>
   </tr>
     <tr color="black">
     <td>15h30-16h</td>
