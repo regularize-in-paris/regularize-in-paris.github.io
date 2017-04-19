@@ -10,12 +10,16 @@ Welcome to the mathematical summer school "Structured Regularization for High-Di
 Where and when
 ===========================
 
-The summer school will take place from June 19th to 23rd in [Institut Henri Poincaré](http://www.ihp.fr/), in Paris, France.
+The summer school will take place from June 19th to 22nd in [Institut Henri Poincaré](http://www.ihp.fr/), in Paris, France.
 
 Registration
 ===========================
 
+Registration is now over. In case you are a graduate student and want to validate a graduate course with the summer school, [please contact us directly](gabriel.peyre at ens.fr), we will put you on the waiting list.
+
+<!---
 [Registration is free but mandatory](https://docs.google.com/forms/d/e/1FAIpQLSfMXGWpODj9OdE8iT-PPlPkOaI3-v6SSYyKdrXTZ33m_oJZwA/viewform).
+--->
 
 Topics
 ===========================
@@ -34,16 +38,16 @@ Courses:
 Additional talks:
 
 - [Francis Bach](http://www.di.ens.fr/~fbach/) (INRIA and ENS)
+- [Claire Boyer](http://www.lsta.upmc.fr/boyer/) (UPMC)
 - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (Paris Est)
 - [Carlos Fernandez-Granda](http://www.cims.nyu.edu/~cfgranda/) (NYU)
-- [Rachel Ward](https://www.ma.utexas.edu/users/rachel/) (UT Austin)
 
 Organizers
 ===========================
 
-- [Gabriel Peyré](http://www.gpeyre.com/)  (CNRS and ENS)
-- [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE)
 - [Yohann De Castro](https://www.normalesup.org/~decastro/) (Paris-Sud)
+- [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE)
+- [Gabriel Peyré](http://www.gpeyre.com/)  (CNRS and ENS)
 
 
 Supported by
@@ -75,5 +79,11 @@ Supported by
 <a href="https://www.fondation-hadamard.fr/LMH">
 <img width="150" src="img/logo-lmh.png"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="http://gdr-mia.math.cnrs.fr/">
+<img width="120" src="img/logo-mia.jpg"/>
+</a>
+
+
 
 </p>
