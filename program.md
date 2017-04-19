@@ -30,8 +30,8 @@ header-img: "img/ihp2.jpg"
     <tr color="black">
     <td>11h30-12h30</td>
     <td>F. Bach</td>
-    <td>É. Chouzenoux</td>
     <td>C. Fernandez-Granda</td>
+    <td>É. Chouzenoux</td>
     <td>C. Boyer</td>
   </tr>
     <tr color="black">
@@ -88,6 +88,8 @@ _Abstract:_ Recent developments in data processing drive the need for solving op
 [4] S. Cadoni, E. Chouzenoux, J.-C. Pesquet and C. Chaux. A Block Parallel Majorize-Minimize Memory Gradient Algorithm. In Proceedings of the 23rd IEEE International Conference on Image Processing (ICIP 2016), pages 3194-3198, Phoenix, Arizona, 25-28 septembre 2016.
 
 **Carlos Fernandez-Granda (NYU)**: A sampling theorem for robust deconvolution
+
+_Abstract:_ In the 70s and 80s geophysicists proposed using l1-norm regularization for deconvolution problem in the context of reflection seismology. Since then such methods have had a great impact in high-dimensional statistics and in signal-processing applications, but until recently their performance on the original deconvolution problem was not well understood theoretically. In this talk we provide an analysis of optimization-based methods for the deconvolution problem, including results on irregular sampling and sparse corruptions that highlight the modeling flexibility of these techniques. 
 
 
 
