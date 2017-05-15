@@ -83,8 +83,6 @@ Supported by
 <a href="http://gdr-mia.math.cnrs.fr/">
 <img width="120" src="img/logo-mia.jpg"/>
 </a>
-
+</p>
 
 Cette conférence a bénéficié d'un financement public Investissement d'avenir, référence ANR-11-LABX-0056-LMH, LabEx LMH.
-
-</p>
