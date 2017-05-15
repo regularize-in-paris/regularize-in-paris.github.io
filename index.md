@@ -85,5 +85,6 @@ Supported by
 </a>
 
 
+Cette conférence a bénéficié d'un financement public Investissement d'avenir, référence ANR-11-LABX-0056-LMH, LabEx LMH.
 
 </p>
