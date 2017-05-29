@@ -15,11 +15,11 @@ The summer school will take place from June 19th to 22nd in [Institut Henri Poin
 Registration
 ===========================
 
-Registration is now over. In case you are a graduate student and want to validate a graduate course with the summer school, [please contact us directly](gabriel.peyre at ens.fr), we will put you on the waiting list.
-
 <!---
-[Registration is free but mandatory](https://docs.google.com/forms/d/e/1FAIpQLSfMXGWpODj9OdE8iT-PPlPkOaI3-v6SSYyKdrXTZ33m_oJZwA/viewform).
+Registration is now over. In case you are a graduate student and want to validate a graduate course with the summer school, [please contact us directly](gabriel.peyre at ens.fr), we will put you on the waiting list.
 --->
+
+[Registration is free but mandatory](https://docs.google.com/forms/d/e/1FAIpQLSfMXGWpODj9OdE8iT-PPlPkOaI3-v6SSYyKdrXTZ33m_oJZwA/viewform).
 
 Topics
 ===========================
