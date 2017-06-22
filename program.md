@@ -68,6 +68,11 @@ header-img: "img/ihp2.jpg"
 ___
 <mark>Start:</mark> We welcome the participants on Monday June 19th from 9h to 9h30 at IHP.
 
+Videos
+-------
+
+[The videos of the course and talks are available online](https://www.youtube.com/playlist?list=PL9kd4mpdvWcBcQTUxwsvaInymvH-WM73i).
+
 Abstracts
 -------
 
