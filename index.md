@@ -80,10 +80,20 @@ Supported by
 <a href="https://www.fondation-hadamard.fr/LMH">
 <img width="150" src="img/logo-lmh.png"/>
 </a>
+</p>
+
+<p align="center">
+<a href="https://data-ens.github.io/">
+<img width="120" src="img/logo-data@ens.png"/>
+</a>
 &nbsp;&nbsp;&nbsp;
 <a href="http://gdr-mia.math.cnrs.fr/">
 <img width="120" src="img/logo-mia.jpg"/>
 </a>
 </p>
+
+
+
+
 
 Cette conférence a bénéficié d'un financement public Investissement d'avenir, référence ANR-11-LABX-0056-LMH, LabEx LMH.
